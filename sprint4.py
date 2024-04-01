@@ -12,7 +12,7 @@ import textwrap
 
 # %%
 # read in data
-df = pd.read_csv('/Users/oliviarichine/Documents/DS 4003/data.csv')
+df = pd.read_csv('data.csv')
 df.head()
 
 # %%
