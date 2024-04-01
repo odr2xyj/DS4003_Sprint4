@@ -6,7 +6,6 @@
 from dash import Dash, dcc, html, Input, Output, callback
 import pandas as pd
 import plotly.express as px
-import matplotlib.pyplot as plt
 import numpy as np
 import plotly.graph_objs as go
 import textwrap
