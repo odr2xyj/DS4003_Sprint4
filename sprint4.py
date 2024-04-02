@@ -34,6 +34,9 @@ sunset_colors = ['#ffbf69', '#cbf3f0', '#2ec4b6']
 # Define layout
 app.layout = html.Div([
 
+    # app title
+    html.H1("Sleep and Health Database"),
+
     # range slider for weight
     html.Div([
         html.Label('Weight Range:'),
